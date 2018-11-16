@@ -1,7 +1,26 @@
 import os
 
-main = ".\\gedit\\1.exe"
+def execu(main):
 
-r_v = os.system(main)
+    #main = ".\\gedit\\1.exe"
 
-print (r_v )
+    r_v = os.system(main)
+
+    print(r_v)
+
+def readFile(path):
+
+    path_list = os.listdir(path)
+
+    path_list.sort()  # 对读取的路径进行排序
+
+    for filename in path_list:
+        execu(os.path.join(path, filename))
+
+if __name__ == "__main__":
+    path = ".\\gedit"
+    readFile(path)
+
+
+
+
