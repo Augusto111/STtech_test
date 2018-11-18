@@ -13,4 +13,5 @@ python execution_exe.py
 ```
 ###   Note
 
-   The code relys on the python3, so please pay attention to the version of your python.
+1. The code relys on the python3, so please pay attention to the version of your python.
+2. This code can only run on Linux.
