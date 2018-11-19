@@ -2,19 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="606cbfda-4319-467b-ac5e-d52bf6fcfc39" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/execution_exe.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/execution_exe.py" beforeDir="false" afterPath="$PROJECT_DIR$/execution_exe.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/1.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/1.out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/2.3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/2.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/2.out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/3.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/a.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test.odt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test.sh" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -38,13 +28,13 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="md" value="178" />
+          <entry key="md" value="272" />
           <entry key="py" value="1334" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Markdown" value="178" />
+          <entry key="Markdown" value="272" />
           <entry key="Python" value="1334" />
         </counts>
       </usages-collector>
@@ -65,8 +55,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/execution_exe.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="25" column="14" lean-forward="true" selection-start-line="25" selection-start-column="14" selection-end-line="25" selection-end-column="14" />
+            <state relative-caret-position="437">
+              <caret line="41" column="39" lean-forward="true" selection-start-line="41" selection-start-column="15" selection-end-line="41" selection-end-column="39" />
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
               </folding>
@@ -78,8 +68,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="475">
-                <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+              <first_editor relative-caret-position="342">
+                <caret line="25" column="3" lean-forward="true" selection-start-line="25" selection-start-column="3" selection-end-line="25" selection-end-column="3" />
               </first_editor>
               <second_editor />
             </state>
@@ -235,8 +225,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/execution_exe.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="25" column="14" lean-forward="true" selection-start-line="25" selection-start-column="14" selection-end-line="25" selection-end-column="14" />
+        <state relative-caret-position="437">
+          <caret line="41" column="39" lean-forward="true" selection-start-line="41" selection-start-column="15" selection-end-line="41" selection-end-column="39" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
           </folding>
@@ -246,8 +236,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="475">
-            <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+          <first_editor relative-caret-position="342">
+            <caret line="25" column="3" lean-forward="true" selection-start-line="25" selection-start-column="3" selection-end-line="25" selection-end-column="3" />
           </first_editor>
           <second_editor />
         </state>

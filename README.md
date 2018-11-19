@@ -4,12 +4,17 @@ This is a interview test of Sensetime. It will:
 1. read all of the executable files from the gedit directory
 2. execute these files according to alphabet order
 3. if the executable file has the output, then print them to the terminal
+4. we provide two method to achieve it: run python script or run shell script
 
 ## Usage
 1. open the terminal
 2. run :
 ```shell
 python execution_exe.py [your target directory path]
+```
+or
+```shell
+./execution_exe.sh [your target directory path]
 ```
 ###   Note
 
@@ -19,7 +24,7 @@ python execution_exe.py [your target directory path]
 ```shell
 python execution_exe.py ./targetDir
 ```
-or the "empty" to test the empty directory like:
+or
 ```shell
-python execution_exe.py ./empty
+./execution_exe.sh ./targetDir
 ```
